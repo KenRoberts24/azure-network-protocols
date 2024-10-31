@@ -118,13 +118,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
  
- Now that we have disabled incoming ICMP traffic from VM2 if we go back to VM1 you can see the ping request is timing out. 
- 
-  Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is using
-Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
-Stop the ping activity
- 
- The next thing we are going to do is Observe SSH Traffic.
+
  
  
  
